@@ -1,0 +1,20 @@
+* text=auto
+*.sh text eol=lf
+gradlew text eol=lf
+*.bat text eol=crlf
+*.jar binary
+*.png binary
+*.zip binary
+
+# Private files are ignored by Git; also exclude them from future source archives.
+/.dev export-ignore
+/artifacts/android export-ignore
+/.local export-ignore
+/.vscode export-ignore
+/AGENTS.md export-ignore
+
+# Byte-pinned upstream files must survive checkout without newline conversion.
+/app/src/main/assets/renderer/vendor/** -text
+/licenses/android-ndk-r28c-NOTICE.txt -text
+/gradle/wrapper/LICENSE -text
+/LICENSE text eol=lf

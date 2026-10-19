@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.Axioma.Starting" parent="Theme.Axioma.StartingBase">
+        <item name="android:windowLightNavigationBar">false</item>
+    </style>
+</resources>

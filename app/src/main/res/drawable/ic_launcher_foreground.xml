@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    The therefore symbol: three circles with a 7 dp radius on a 108 dp canvas.
+    Centers: (54, 35.9), (36, 67.1), and (72, 67.1).
+    The 50 x 45.2 dp mark stays within the central 66 x 66 dp safe zone.
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#72645F"
+        android:pathData="M47,35.9a7,7 0 1,0 14,0a7,7 0 1,0 -14,0z
+                          M29,67.1a7,7 0 1,0 14,0a7,7 0 1,0 -14,0z
+                          M65,67.1a7,7 0 1,0 14,0a7,7 0 1,0 -14,0z" />
+</vector>

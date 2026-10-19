@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.Axioma" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowBackground">#F2F0ED</item>
+        <item name="android:colorAccent">#72645F</item>
+        <item name="android:colorControlHighlight">#3372645F</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowActionModeOverlay">true</item>
+    </style>
+</resources>

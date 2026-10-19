@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.Axioma.StartingBase" parent="Theme.Axioma">
+        <item name="android:windowBackground">@drawable/splash_background</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:statusBarColor">#1C1C1F</item>
+        <item name="android:navigationBarColor">#1C1C1F</item>
+    </style>
+    <style name="Theme.Axioma.Starting" parent="Theme.Axioma.StartingBase" />
+</resources>

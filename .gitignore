@@ -1,0 +1,60 @@
+.gradle/
+.kotlin/
+.tools/
+**/build/
+**/.cxx/
+**/.externalNativeBuild/
+local.properties
+.idea/
+*.iml
+*.jks
+*.keystore
+*.pem
+*.key
+*.p12
+*.pfx
+keystore.properties
+key.properties
+id_rsa
+id_ed25519
+captures/
+
+# Machine-specific configuration and private maintainer material.
+/.dev/
+# Keep legacy locations excluded if an older tool recreates them.
+/.local/
+/.vscode/
+/.codex/
+/.ssh/
+/.aws/
+/.gnupg/
+/AGENTS.md
+.env
+.env.*
+!.env.example
+
+# Disposable probes, reports and editor backups belong outside the source tree.
+/tmp/
+/temp/
+/scratch/
+/coverage/
+*.log
+*.tmp
+*.temp
+*.bak
+*.orig
+*.rej
+*~
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+
+# Installable artifacts are generated; keep their source and build scripts.
+*.apk
+*.aab
+*.apks
+*.idsig
+
+# Reproducible Android builds, verification reports and manifests.
+/artifacts/android/

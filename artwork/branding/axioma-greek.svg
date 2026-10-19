@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="64" viewBox="0 0 240 64" role="img" aria-labelledby="title description">
+    <title id="title">Αξίωμα</title>
+    <desc id="description">Custom Greek wordmark for Axioma, including the tonos above iota.</desc>
+    <g fill="none" stroke="#F1ECE7" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
+    <path id="alpha_upper" d="M7,50L20.5,12L34,50 M12,36H29"/>
+    <path id="xi" d="M66,12C59,16 49,12 48,19C47,25 59,28 65,25C49,27 43,34 48,40C52,45 67,42 69,49C70,54 67,58 63,60"/>
+    <path id="iota_tonos" d="M90,11L86,19 M88,28V44Q88,51 95,49"/>
+    <path id="omega" d="M111,28C102,41 108,51 117,50C123,49 127,44 127,37V34C127,44 132,50 139,50C150,50 154,39 146,28"/>
+    <path id="mu" d="M166,28V59 M166,29V42C166,52 179,53 182,43L185,28L184,44Q184,51 191,49"/>
+    <path id="alpha_lower" d="M222,29C216,21 205,28 203,39C201,50 214,55 221,44L227,27 M227,27L223,44Q221,52 230,49"/>
+    </g>
+</svg>

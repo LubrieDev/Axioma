@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.Axioma.StartingPlatform" parent="Theme.Axioma.StartingBase">
+        <item name="android:windowLightNavigationBar">false</item>
+        <item name="android:windowSplashScreenBackground">#1C1C1F</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/ic_splash_logo</item>
+    </style>
+    <style name="Theme.Axioma.Starting" parent="Theme.Axioma.StartingPlatform" />
+</resources>

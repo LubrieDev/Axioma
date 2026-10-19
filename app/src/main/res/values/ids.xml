@@ -1,0 +1,10 @@
+<resources>
+    <item name="formula_display" type="id" />
+    <item name="angle_mode_button" type="id" />
+    <item name="open_keyboard" type="id" />
+    <item name="source_editor" type="id" />
+    <item name="source_apply" type="id" />
+    <item name="result_format_group" type="id" />
+    <item name="result_numerical" type="id" />
+    <item name="result_exact" type="id" />
+</resources>
